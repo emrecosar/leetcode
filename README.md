@@ -1,8 +1,7 @@
 # leetcode
 
-Solutions about LeetCode's Top Interview Questions list
+Solutions about LeetCode's **Top Interview Questions list**. 
 
-My all solutions is on Java.
+All solutions coded with Java.
 
-Top Interview Questions
-https://leetcode.com/problemset/top-interview-questions/
+[Top Interview Questions](https://leetcode.com/problemset/top-interview-questions)
