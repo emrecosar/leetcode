@@ -15,6 +15,6 @@ public class WordBreak {
         }
 
         return status[s.length()];
-        
+
     }
 }
