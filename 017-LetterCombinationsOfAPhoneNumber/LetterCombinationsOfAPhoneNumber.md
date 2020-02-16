@@ -4,7 +4,7 @@ A mapping of digit to letters (just like on the telephone buttons) is given belo
 
 Example:
 
-![example](example.png "example")
+![example](letterCombinationsOfAPhoneNumber.png "example")
 
 ```
 Input: "23"
